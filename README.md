@@ -16,7 +16,16 @@ Quick and easy search for knowledge. Use your and others' knowledge. Your own pa
 
 В данный момент разработано два инструмента:
 1) расширение к браузеру Chrome для управления полезными ссылками и краткой информацией (шпаргалками)
+
+![main_window](https://raw.githubusercontent.com/Smartoteka/smartoteka/main/docs/images/main_window.png)
+
+![open_cheat_sheet](https://raw.githubusercontent.com/Smartoteka/smartoteka/main/docs/images/open_cheat_sheet.png)
+
 Расширение позволяет управлять вкладками в браузере и искать краткие заметки по тегам. При поиске предлагает дополнить тегами в соответствии с тем, что есть в базе знаний, т.е. экономит время.
+
+![menu_session](https://raw.githubusercontent.com/Smartoteka/smartoteka/main/docs/images/menu_session.png)
+
+![open_session_in_new_window](https://raw.githubusercontent.com/Smartoteka/smartoteka/main/docs/images/open_session_in_new_window.png)
 
 В нем я сохраняю то, что часто забываю: 
 - комбинации клавиш, 
